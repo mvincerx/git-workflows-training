@@ -7,4 +7,3 @@ This training repo is used to train contributors to Clear Linux\* documentation 
 * How to collaborate with contributors and reviewers
 
 The files contained herein are not official Clear Linux documentation. 
-
