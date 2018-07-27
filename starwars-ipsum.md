@@ -21,6 +21,7 @@ she's got a lot of spirit. I don't know, what do you think? What!?
 - No! Alderaan is peaceful. We have no weapons. You can't possibly…
 - I find your lack of faith disturbing.
 
+Then R2D2 glided  in.
 
 Look, I ain't in this for your revolution, and I'm not in it for you, Princess. I 
 expect to be well paid. I'm in it for the money.
