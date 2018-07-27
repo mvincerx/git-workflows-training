@@ -80,3 +80,5 @@ station ain't my idea of courage. It's more like…suicide.
 Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it 
 as it is. I want to come with you to Alderaan. There's nothing for me here now. I 
 want to learn the ways of the Force and be a Jedi, like my father before me.
+
+Surrender to the power of the darkside.
