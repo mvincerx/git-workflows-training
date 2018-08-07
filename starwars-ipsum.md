@@ -89,3 +89,5 @@ hovercraft garage too long now. The fumes are getting to me. Do you think they
 have beaches on Dantooine? 
 
 :^)
+
+As Han Solo said, "Never tell me the odds." Unless I'm in Vegas. 
