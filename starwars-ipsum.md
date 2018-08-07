@@ -88,6 +88,7 @@ That is, if you dare. I mean, listen. We've all been hanging out in this
 hovercraft garage too long now. The fumes are getting to me. Do you think they
 have beaches on Dantooine? 
 
-:^)
+:p
 
 As Han Solo said, "Never tell me the odds." Unless I'm in Vegas. 
+
