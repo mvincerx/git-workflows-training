@@ -92,3 +92,8 @@ have beaches on Dantooine?
 
 As Han Solo said, "Never tell me the odds." Unless I'm in Vegas. 
 
+Alas, I find myself searching for my self. And because I have no self, but selves, savage 
+they are savage and unruly. "I become destruction," as Oppenheimer said, quoting the 
+Bhagavad Gita, before Hiroshima. Oh well, I digress. I guess I'm just a Obi-Wannabe. 
+
+Han Solo said, with finality, "It's not my fault."
