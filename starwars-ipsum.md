@@ -97,3 +97,5 @@ they are savage and unruly. "I become destruction," as Oppenheimer said, quoting
 Bhagavad Gita, before Hiroshima. Oh well, I digress. I guess I'm just a Obi-Wannabe. 
 
 Han Solo said, with finality, "It's not my fault."
+
+Followed by a barely audible "Just like it wasn't my fault when I was the main course for 3PO's dang banquet ... ."
