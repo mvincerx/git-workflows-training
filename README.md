@@ -8,3 +8,4 @@ This training repo is used to train contributors to Clear Linux\* documentation 
 * Apply Clear Linux\* rules of collaboration for contributors and reviewers
 
 *Note:The files contained herein are not official Clear Linux documentation.* 
+10.04.18 Add test note here. 
