@@ -7,5 +7,13 @@ This training repo is used to train contributors to Clear Linux\* documentation 
 * Add remotes and create branches
 * Apply Clear Linux\* rules of collaboration for contributors and reviewers
 
-*Note:The files contained herein are not official Clear Linux documentation.* 
-10.04.18 Add test note here. 
+*Note:The files contained herein are not official Clear Linux documentation.*
+ 
+[](10.04.18 Add test note here. 01.31.19. I added empty web link syntax for comment.)
+
+{% comment %}
+
+Test comment. 
+
+{% comment %}
+
