@@ -9,11 +9,5 @@ This training repo is used to train contributors to Clear Linux\* documentation 
 
 *Note:The files contained herein are not official Clear Linux documentation.*
  
-[](10.04.18 Add test note here. 01.31.19. I added empty web link syntax for comment.)
-
-{% comment %}
-
-Test comment. 
-
-{% comment %}
+<!--- 10.04.18 Add test note here. 01.31.19. I added empty web link syntax for comment. --->
 
