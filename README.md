@@ -1,8 +1,8 @@
-# git-workflows-training
+# git workflows sandbox
 
-This Git Workflows Sandbox is used to train contributors to Clear Linux\* OS documentation. It's also used 
-to train other contributors to open source projects. I'm happy to set up a training session. 
-Note: This training is accompanied by other slides and is intended to be given in person/via Skype.  
+This Git Workflows Sandbox is used, in concert with other materials, to train contributors to open source projects. 
+While it was originally designed to teach Git best practices for contributors to Clear Linux* OS, our support for other open source projects has grown.
+Note: This training is intended to be given in person/via Skype and is accompanied by presentation slides. 
 
 To request a training, send an email to the repo maintainer.
 
