@@ -13,7 +13,7 @@ To request a training, send an email to the repo maintainer.
 * Create branches for development
 * Submit a Pull Request
 
-Use this sandbox as practice in preparation for contributing to [Clear Linux\* OS documentation](git@github.com:mvincerx/git-workflows-training.git)
+Use this sandbox as practice in preparation for contributing to [Clear Linux Documentation](https://github.com/clearlinux/clear-linux-documentation)
 
 *Note: Files contained herein are not official Clear Linux* OS documentation.*
  
