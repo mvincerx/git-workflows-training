@@ -16,12 +16,12 @@ Dantooine. They're on Dantooine. I care. So, what do you think of her, Han? Stil
 she's got a lot of spirit. I don't know, what do you think? What!?
 
 - I can't get involved! I've got work to do! It's not that I like the Empire, I hate 
-  it, but there's nothing I can do about it right now. It's such a long way from 
-  here.
+ it, but there's nothing I can do about it right now. It's such a long way from 
+ here.
 - No! Alderaan is peaceful. We have no weapons. You can't possibly…
 - I find your lack of faith disturbing.
 
-Then R2D2 glided  in.
+Then R2D2 glided in.
 
 Look, I ain't in this for your revolution, and I'm not in it for you, Princess. I 
 expect to be well paid. I'm in it for the money.
@@ -101,3 +101,5 @@ Han Solo said, with finality, "It's not my fault."
 Biggs Darklighter here. I'm back from the dead to see my friend Sky Lukewarm-walker. He still around? 
 
 I'm here!!!
+
+Skywalker needs a special TCS light saber.
