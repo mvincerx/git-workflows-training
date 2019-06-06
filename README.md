@@ -9,9 +9,11 @@ To request a training, send an email to the repo maintainer.
  This training teaches how to:
 
 * Use git commands
-* Fork, clone, and add an upstream of https://github.com/clearlinux/clear-linux-documentation
-* Add remotes and create branches
-* Apply Clear Linux\* OS rules of collaboration for contributors and reviewers
+* Fork, clone, and add remotes
+* Create branches for development
+* Submit a Pull Request
+
+Use this sandbox as practice in preparation for contributing to [Clear Linux\* OS documentation](git@github.com:mvincerx/git-workflows-training.git)
 
 *Note: Files contained herein are not official Clear Linux* OS documentation.*
  
