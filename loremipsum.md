@@ -4,7 +4,7 @@ Cicero. 45 BC
 
 **Ecce homo**
 
-This is not Latin
+This is not Latin, but it certainly looks like it to the uneducated eye.
 
 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam 
 rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt 
