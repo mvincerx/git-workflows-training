@@ -4,7 +4,7 @@ The plans you refer to will soon be back in our hands.
 Don't underestimate the Force. Dantooine. They're on Dantooine. I care. So, what do you think of her, Han? Still, 
 she's got a lot of spirit. I don't know, what do you think? What!?
 
-What can painted can be punished. 
+What can painted can be punished.  What will you do to emulate Bob?
 
 Princess Lea, are you there? I think she went out for lunch. I'm hungry for lunch too. Let's go! 
 
