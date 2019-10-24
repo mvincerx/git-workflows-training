@@ -1,13 +1,15 @@
 The plans you refer to will soon be back in our hands.
 =====================================================
 
-Don't underestimate the Force. Dantooine. They're on Dantooine. I care. So, what do you think of her, Han? Still, 
+Don't underestimate the Force. Dantooine. They're on Dantooine. I care. So, what do you think of her, Han? Still,
 she's got a lot of spirit. I don't know, what do you think? What!?
+
+Added this line for workshop.
 
 Princess Lea, are you there? I think she went out for lunch.
 
-- I can't get involved! I've got work to do! It's not that I like the Empire, I hate 
- it, but there's nothing I can do about it right now. It's such a long way from 
+- I can't get involved! I've got work to do! It's not that I like the Empire, I hate
+ it, but there's nothing I can do about it right now. It's such a long way from
  here.
 - No! Alderaan is peaceful. We have no weapons. You can't possibly…
 - I find your lack of faith disturbing.
