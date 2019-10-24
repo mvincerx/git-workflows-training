@@ -1,16 +1,6 @@
 The plans you refer to will soon be back in our hands.
 =====================================================
 
-Kid, I've flown from one side of this galaxy to the other. I've seen a lot of 
-strange stuff, but I've never seen anything to make me believe there's one 
-all-powerful Force controlling everything. There's no mystical energy field that 
-controls my destiny. It's all a lot of simple tricks and nonsense. You mean it 
-controls your actions?
-
-Hokey religions and ancient weapons are no match for a good blaster at your side, 
-kid. I want to come with you to Alderaan. There's nothing for me here now. I want to 
-learn the ways of the Force and be a Jedi, like my father before me.
-
 Don't underestimate the Force.
 Dantooine. They're on Dantooine. I care. So, what do you think of her, Han? Still, 
 she's got a lot of spirit. I don't know, what do you think? What!?
