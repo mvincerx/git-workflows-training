@@ -1,6 +1,8 @@
 The plans you refer to will soon be back in our hands.
 =====================================================
 
+Exciting stuff, people!
+
 Don't underestimate the Force. Dantooine. They're on Dantooine. I care. So, what do you think of her, Han? Still, 
 she's got a lot of spirit. I don't know, what do you think? What!?
 
