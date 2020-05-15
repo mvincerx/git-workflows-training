@@ -1,6 +1,8 @@
 Bob Ross quotes
 ===============
 
+Wake up, Bob!
+
 Following are a bunch of Bob Ross original quotes. Add your own quote at the bottom, or if you like, respond below Ross' quote to interpret what it means.
 
 
