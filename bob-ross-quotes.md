@@ -22,3 +22,4 @@ Following are a bunch of Bob Ross original quotes. Add your own quote at the bot
 
 "Everyday is a new day"
 
+"We don’t laugh because we feel good, we feel good because we laugh."
